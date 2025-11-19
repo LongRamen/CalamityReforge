@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalamityReforge", "CalamityReforge.csproj", "{AB710582-7588-A5D8-2F12-F6DFA02DA13F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB710582-7588-A5D8-2F12-F6DFA02DA13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB710582-7588-A5D8-2F12-F6DFA02DA13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB710582-7588-A5D8-2F12-F6DFA02DA13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB710582-7588-A5D8-2F12-F6DFA02DA13F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {301EAB77-3BEB-49C6-8666-C66C3D4242A0}
+	EndGlobalSection
+EndGlobal

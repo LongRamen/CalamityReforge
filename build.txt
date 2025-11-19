@@ -1,0 +1,4 @@
+displayName = Calamity's Reforge System
+author = LongRamen
+version = 1.0
+includeSource = true

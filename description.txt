@@ -1,0 +1,7 @@
+Doing a vanilla playthrough, but can't stand the Goblin Tinkerer's vanilla mechanics?
+
+This mod implements Calamity's more generous reforging system.
+
+These changes are described here, under "Reforge System Rework": https://calamitymod.wiki.gg/wiki/Vanilla_changes#Town_NPCs
+
+Don't use this mod with Calamity, or with any other mod that changes reforging, or something will probably break.
