@@ -1,10 +1,23 @@
 Configs: {
-	MainConfig: {
-		DisplayName: Config
+	ServerConfig: {
+		DisplayName: Server Config
 
 		Enabled: {
 			Label: Enabled
-			Tooltip: Enable the mod
+			Tooltip: Enables the mod
+		}
+
+		SimplifyAccessoryReforge: {
+			Label: Simplify Accessory Reforge
+			Tooltip:
+				'''
+				Makes accessory reforging simpler by restricting options to the following prefixes:
+				 - Warding, Menacing, Lucky, Quick, Violent, Arcane
+
+				(New config option added in Calamity 2.1)
+
+				Does nothing if "Enabled" is not set
+				'''
 		}
 	}
 }

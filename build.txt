@@ -1,5 +1,5 @@
 displayName = Calamity's Reforge System
 author = LongRamen
-version = 1.1
+version = 1.2
 includeSource = true
 homepage = https://github.com/LongRamen/CalamityReforge

@@ -7,3 +7,7 @@ These changes are described [url=https://calamitymod.wiki.gg/wiki/Vanilla_change
 Don't use this mod with Calamity, or with any other mod that changes reforging, or something will probably break.
 
 Github: https://github.com/LongRamen/CalamityReforge
+
+
+Credit for the logic used in this mod goes to the Calamity Team.
+Adapted from code taken from [url=https://github.com/CalamityTeam/CalamityModPublic/tree/1.4.4-release] their public Github repo. [/url]
